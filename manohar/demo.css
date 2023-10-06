@@ -2,5 +2,10 @@
 {
     background-color: cyan;
     color: black;
-    
+
+}
+#demo1
+{
+    font-size: 80px;
+    font-variant: small-caps;
 }
